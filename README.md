@@ -33,7 +33,7 @@ To use the provided class for benchmarking:
 
 1. Compile Java Files:
     javac SortingAlgorithms.java Runner.java
-2. Run Java Application
+2. Run Java Application:
     java Runner
 
 
